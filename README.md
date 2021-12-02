@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Jeanaraga
-- 👀 I’m interested in learning codes,
-- 🌱 I’m currently learning HTML,CSS and JavaScript.
-- 💞️ I’m looking to collaborate on sites that use HTML, CSS and JavaScript
-- 📫 How to reach me 👇
+- 👨‍💼 Estou estou trabalhando em Front End!
+- 🌱 Estou aprendendo JavaScript!
+- 📫 Voce pode me achar 👇
 - 🤳 By Instagram=https: //www.instagram.com/jeannpedroo/
+- 🤳 By Linendin: https://www.linkedin.com/in/jean-pedro-344356225/
 
 <!---
 Jeanaraga/Jeanaraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
