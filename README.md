@@ -5,10 +5,10 @@
 - 👉 Por Instagram=https: //www.instagram.com/jeannpedroo/
 - 👉 Por Linkendin: https://www.linkedin.com/in/jean-pedro-344356225/
 
-<div align = "center">
+<div align = "center" style = "display: inline_block">
   <a href="https://github.com/Jeanaraga">
-  <img height = "160em" width = "100em" src = "https://github-readme-stats.vercel.app/api?username=Jeanaraga&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> <br>
-  <img height = "160em" width = "100em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanaraga&layout=compact&langs_count=7&theme=dark" />
+  <img height = "160em"  src = "https://github-readme-stats.vercel.app/api?username=Jeanaraga&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> <br>
+  <img height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanaraga&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 <div style = "display: inline_block"> <br>
