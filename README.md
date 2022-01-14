@@ -34,9 +34,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jeannpedroo"/></a>
 </p>  
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanaraga&hide=html&layout=compact=true&theme=default)](https://github.com//)
-[![card](https://github-readme-stats.vercel.app/api?username=Jeanaraga&theme=default)](https://github.com/iuricode/)
-  
+
  
 <!---
 Jeanaraga/Jeanaraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
