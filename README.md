@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Olá sou o Jean Pedro e sou <strong>Desenvolvedor Front-end</strong>.<br>
-  No momento estou estudando para ser um grande desenvolvedor.
+  No momento estou estudando Javascript e Pretendo estudar React.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML,CSS,Javascript,Bootstrap e React.</strong>
+  🦄 Linguagens: <strong>HTML,CSS,Javascript,Bootstrap.</strong>
 </p>
 
 <p align="left">
