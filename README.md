@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Olá sou o Jean Pedro e sou <strong>Desenvolvedor Front-end</strong>.<br>
-  No momento estou estudando Javascript e Pretendo estudar React.
-</p>
+ # 👋🏾 Olá sou o Jean Pedro e sou <strong>Desenvolvedor Front-end</strong>.<br>
+ ### 📝 No momento estou estudando Javascript e Pretendo estudar React.
 
 <p align="left">
   🦄 Linguagens: <strong>HTML,CSS,Javascript,Bootstrap.</strong>
@@ -33,11 +31,6 @@
   <a href="https://www.instagram.com/jeannpedroo" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jeannpedroo"/></a>
 </p>  
-
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanaraga&layout=compact&langs_count=7&theme=dark"/>
-
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jeanaraga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
 
 
  
