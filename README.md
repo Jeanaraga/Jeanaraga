@@ -33,6 +33,9 @@
 </p>  
 
 
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanaraga&layout=compact&langs_count=7&theme=dracula"/>
+
+
  
 <!---
 Jeanaraga/Jeanaraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
