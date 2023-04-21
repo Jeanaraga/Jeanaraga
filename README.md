@@ -4,7 +4,7 @@
  ### 📝 No momento estou estudando Javascript e pretendo estudar React.
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML,CSS,Javascript,Bootstrap.</strong>
+  🦄 Linguagens: <strong>Javascript,Python - Banco da dados: MySQL - Html,Css,Bootstrap</strong>
 </p>
 
 <p align="left">
