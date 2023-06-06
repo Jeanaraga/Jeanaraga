@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
- # 👋🏾 Olá sou o Jean Pedro e sou **Desenvolvedor Front-end**.<br>
+ # 👋🏾 Olá sou o Jean Pedro e sou estudante de **Desenvolvimento de Sistemas**.<br>
  ### 📝 No momento estou estudando Javascript e pretendo estudar React.
 
 <p align="left">
