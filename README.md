@@ -3,11 +3,11 @@
  # 👋🏾 Olá sou o Jean Pedro e sou estudante de **Desenvolvimento de Sistemas**.<br>
  ### 📝 No momento estou estudando demais🤓☝.
 
-<p align="left">
+
   - 🦄 Principal Linguagem: <strong>Javascript</strong>
   - 🤓 Outras Linguagens e tecnologias: Java, Python, MySQL.
   - 👾 Front End: Html, Css, Scss, Bootstrap, Vue.js
-</p>
+
 
 <p align="left">
   💌 Me encontre por aqui: ⤵️
