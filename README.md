@@ -1,14 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
  # 👋🏾 Olá sou o Jean Pedro e sou estudante de **Desenvolvimento de Sistemas**.<br>
- ### 📝 No momento estou estudando Javascript e pretendo estudar React.
+ ### 📝 No momento estou estudando demais🤓☝.
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript,Python - Banco da dados: MySQL - Html,Css,Bootstrap</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VScode,Figma,Github Desktop.</strong>
+  - 🦄 Principal Linguagem: <strong>Javascript</strong>
+  - 🤓 Outras Linguagens e tecnologias: Java, Python, MySQL.
+  - 👾 Front End: Html, Css, Scss, Bootstrap, Vue.js
 </p>
 
 <p align="left">
