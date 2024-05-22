@@ -5,7 +5,7 @@
 
 
   - 🦄 Principal Linguagem: <strong>Javascript</strong>
-  - 🤓 Outras Linguagens e tecnologias: Java, Python, MySQL.
+  - 🤓 Outras Linguagens e tecnologias: PHP,Java, Python, MySQL.
   - 👾 Front End: Html, Css, Scss, Bootstrap, Vue.js
 
 
