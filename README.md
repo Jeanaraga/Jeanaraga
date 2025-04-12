@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanaraga&layout=compact&langs_count=7&theme=dark"/>
 
  # 👋🏾 Olá sou o Jean Pedro e curso **Engenharia da Computação**.<br>
  ### 📝 No momento estou estudando demais🤓☝.
@@ -24,7 +24,7 @@
 </p>  
 
 
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanaraga&layout=compact&langs_count=7&theme=dark"/>
+
 
 
  
