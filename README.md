@@ -1,12 +1,11 @@
 
 
- # 👋🏾 Olá sou o Jean Pedro e curso **Engenharia da Computação**.<br>
- ### 📝 No momento estou estudando demais🤓☝.
+ ### Oi!! Eu sou o Jean Pedro🦅🖤🤍
 
 
   - 🦄 Principal Linguagem: <strong>Javascript</strong>
-  - 🤓 Outras Linguagens e tecnologias: PHP,Java, Python, MySQL.
-  - 👾 Front End: Html, Css, Scss, Bootstrap, Vue.js
+  - 🤓 Outras Linguagens e tecnologias: Java, C++, MySQL.
+  - 👾 Front End: Html, Css, Scss, Bootstrap, Angular.
 
 
 <p align="left">
