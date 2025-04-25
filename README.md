@@ -7,7 +7,7 @@
 #### 💡 Tecnologias que trabalho:
 
 - 🔧 **Linguagem principal:** JavaScript  
-- 🧠 **Outras linguagens:** Java, C++, MySQL  
+- 🧠 **Outras linguagens e tecnologias:** Java, C++, MySQL  
 - 🎨 **Front-End:** HTML, CSS, SCSS, Bootstrap, Angular  
 
 ---
